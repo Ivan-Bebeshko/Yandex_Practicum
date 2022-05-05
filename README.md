@@ -2,7 +2,7 @@
 
 *Storage of projects from learning*
 
-Projects:
+`Projects:`
 - big_cities_music: analysis of music preferences over the cities
 - ...
 - ...
