@@ -4,8 +4,11 @@
 
 `Projects:`
 1. **big_cities_music**:
-    - Goals: analysis of music preferences over the cities by genre, week day, day time.
+    - Goals:
+        - assessment of user activity and behavior;
+        - analysis of music preferences over the cities by genre, week day, day time.
     - Libraries: Pandas
+    - Project language: Russian.
 3. ...
 - ...
 - ...
