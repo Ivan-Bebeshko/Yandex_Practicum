@@ -8,6 +8,6 @@
 
 **Libraries**: Pandas
 
-**Project language**: Russian.
+**Project language**: Russian
 
 *Notes*: first programing project at Python
