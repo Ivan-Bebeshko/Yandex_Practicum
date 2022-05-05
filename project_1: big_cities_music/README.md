@@ -1,4 +1,4 @@
-## Project description ##\
+## Project description ##
 
 **Name**: big_cities_music (folder: project_1)
 
