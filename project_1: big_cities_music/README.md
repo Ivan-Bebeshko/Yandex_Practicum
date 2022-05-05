@@ -1,5 +1,6 @@
 ## Project description ##
 
+
 **Name**: big_cities_music (folder: project_1)
 **Goals**:
   - assessment of user activity and behavior;
