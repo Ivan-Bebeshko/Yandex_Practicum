@@ -1,6 +1,6 @@
 # Yandex_Practicum
 
-*Storage of projects from learning*
+## Storage of projects from learning ##
 
 `Projects:`
 1. **big_cities_music** (folder: project_1)
