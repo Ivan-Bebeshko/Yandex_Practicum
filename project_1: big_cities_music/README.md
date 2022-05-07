@@ -11,3 +11,4 @@
 **Project language**: Russian
 
 *Notes*: first programing project at Python
+*Aim*: Basic Python
