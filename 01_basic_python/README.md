@@ -1,4 +1,4 @@
-**Name**: Basic Pyton: 01_basic_python/01_basic_python.ipynb
+**Name**: Basic Pyton:
 
 **Goals**:
   - Apply appropriate code and programming style;
