@@ -1,4 +1,4 @@
-**Name**: Basic Pyton: |(https://github.com/Ivan-Bebeshko/Yandex_Practicum/blob/6a5f5586e3de85277d28a3d1779e9928060482ff/01_basic_python/01_basic_python.ipynb)|
+**Name**: Basic Pyton: (https://github.com/Ivan-Bebeshko/Yandex_Practicum/blob/6a5f5586e3de85277d28a3d1779e9928060482ff/01_basic_python/01_basic_python.ipynb)
 
 **Goals**:
   - Apply appropriate code and programming style;
