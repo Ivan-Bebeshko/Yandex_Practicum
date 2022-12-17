@@ -1,13 +1,9 @@
-**Name**: [ML_introduction](https://github.com/Ivan-Bebeshko/Yandex_Practicum/blob/84c718e59fe95bcc6f4ffa3c1c2633b4b4cb5d3c/02_ML_introduction/02_ML_intro.ipynb)
+**Name**: [Supervised Learning](https://github.com/Ivan-Bebeshko/Yandex_Practicum/blob/4719fbf96154fd61bec6dfae13fe30fac56bcd9a/03_supervised_learning/03_supervised_learning.ipynb)
 
 **Goals**:
-  - Define for prediction best `classification` model:
-    - Decision Tree;
-    - Random Forest;
-    - Logistic Regression.
-  - Provide define accuracy 0.75 or above;
-  - Validate selection at test dataset;
-  - Perform best model adequacy checking. 
+  - Define `classification` model, which predicts client retention;
+  - Work with imbalanced data Classes;
+  - Meet or overcome target `f1 score` and `AUC-ROC` metrics.
 
 **Libraries**: Pandas, Numpy, Sklearn.
 
