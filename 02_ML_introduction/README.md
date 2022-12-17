@@ -4,7 +4,7 @@
   - Define for prediction best `classification` model:
     - Decision Tree
     - Random Forest
-    - LogisticRegression
+    - Logistic Regression
   - Provide define accuracy
   - Validate selection at test dataset;
   - Perform best model adequacy checking. 
