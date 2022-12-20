@@ -1,7 +1,7 @@
 
 
 
-**Name**: [05 Median Project](https://github.com/Ivan-Bebeshko/Yandex_Practicum/blob/19db06246ec990128aaf571061d9429b5077ba8f/05_median_project/05_medial_project.ipynb)
+**Name**: [Median Project](https://github.com/Ivan-Bebeshko/Yandex_Practicum/blob/19db06246ec990128aaf571061d9429b5077ba8f/05_median_project/05_medial_project.ipynb)
 
 **Goals**:
   - Execute EDA with general gold recovery process understanding;
