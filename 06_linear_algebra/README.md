@@ -1,4 +1,4 @@
-**Name**: [06 Linear Algebra]()
+**Name**: [Linear Algebra](https://github.com/Ivan-Bebeshko/Yandex_Practicum/blob/d95c0b1f1c9fdb906ec719a9377ec3650e8b687a/06_linear_algebra/06_linear_algebra.ipynb)
 
 **Goals**:
   - Develop a data encryption method (`class LinearRegression`) that makes it difficult to get customer's personal information.
