@@ -1,4 +1,4 @@
-**Name**: [05 Linear Algebra]()
+**Name**: [06 Linear Algebra]()
 
 **Goals**:
   - Develop a data encryption method (`class LinearRegression`) that makes it difficult to get customer's personal information.
