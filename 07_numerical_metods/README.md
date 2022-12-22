@@ -5,7 +5,7 @@
   - Select model which predict cost of used car using gradient descent:
     - Standard models: Tree, Forest, LinearRegression;
     - Apply LGBMRegressor;
-    - CatBoostRegressor.
+    - Apply CatBoostRegressor.
   - Determine parameters sweet spot with RandomizedSearchCV.
 
 **Libraries**: Pandas, Numpy, Matplotlib, Sklearn, Scipy, LGBMR, CatBoost, RandomizedSearchCV
