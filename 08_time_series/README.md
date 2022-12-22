@@ -4,7 +4,7 @@
   - Execute EDA of time series data: analyze trends and seasons.
   - Perform ML for CatBoost и LGBM models with cross-validation via RandomizedSearch.
   - Validate selection at test dataset.
-  - Perform best model adequacy checking via mean and previous value prediction.
+  - Perform best model adequacy checking by mean and previous value prediction.
 
 **Libraries**: Pandas, Numpy, Matplotlib, Sklearn, Scipy, LGBMR, CatBoost.
 
