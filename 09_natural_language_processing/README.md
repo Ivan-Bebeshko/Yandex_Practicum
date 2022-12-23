@@ -3,8 +3,8 @@
 **Goals**:
   - Perform tokenization and lemmatization of text;
   - Run word to vector transformation: TF-IDF vectorization;
-  - Select model which meat desired F1 metric;
-  - Validate selection at test dataset.
+  - Select model which meat desired F1 metric in terms of toxic comments detection;
+  - Validate selected model at test dataset.
 
 **Libraries**: Pandas, Numpy, nltk, Sklearn, LGBMC, LogisticRegression, RandomizedSearchCV
 
