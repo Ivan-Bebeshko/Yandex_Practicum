@@ -3,6 +3,6 @@
 **Goals**:
   - 
 
-**Libraries**: 
+**Libraries**: Pandas, Numpy, nltk, Sklearn, LGBMC, LogisticRegression, RandomizedSearchCV
 
 **Project language**: Russian.
