@@ -3,7 +3,7 @@
 **Goals**:
   - Perform EDA and determine features of dataframe with images.
   - Create Neural Network for age prediction based on dataframe with photos:
-    - based on Keras ResNet50 which is residual neural network that was used as the backbone.
+    - based on ResNet50 as the backbone.
   - Use Keras interface and Adam optimizer to get MAE less than 8.
   
 **Libraries**: Pandas, Numpy, Matplotlib, Keras, ResNet50, Adam
